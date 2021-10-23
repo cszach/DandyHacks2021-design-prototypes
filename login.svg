@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="1136"
+   viewBox="0 0 169.33333 300.56667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="login.svg"
+   inkscape:export-filename="/home/novakcgx/Code/GitHub/novakcgx/DandyHacks2021-design-prototypes/png/login.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.64"
+     inkscape:cx="388.28125"
+     inkscape:cy="403.90625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="2.1792816e-06,-264282.77"
+       orientation="0,1"
+       id="guide22514"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,150.28333"
+       orientation="0,1"
+       id="guide22516"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="84.666665,300.56667"
+       orientation="1,0"
+       id="guide22518" />
+    <sodipodi:guide
+       position="2.1792816e-06,225.425"
+       orientation="0,1"
+       id="guide22984"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#ff9800;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;opacity:1;stop-opacity:1"
+       id="rect31"
+       width="169.33333"
+       height="300.56665"
+       x="2.1792816e-06"
+       y="0" />
+    <circle
+       style="font-variation-settings:normal;vector-effect:none;fill:#5472d3;fill-opacity:1;stroke-width:24.7828;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="path2198"
+       cx="84.666664"
+       cy="75.141663"
+       r="42.994793" />
+    <g
+       id="g22502"
+       transform="translate(-0.87074606,-15.541907)">
+      <g
+         id="g25615"
+         transform="translate(-5.6073945e-8,-2.6458329)">
+        <rect
+           style="fill:#f9f9f9;stroke-width:12.926;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+           id="rect1365"
+           width="6.8791666"
+           height="6.8791666"
+           x="27.329075"
+           y="217.68358"
+           rx="1.3229166"
+           ry="1.3229166" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.35px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';stroke-width:0.264583"
+           x="40.637035"
+           y="224.03163"
+           id="text3319"><tspan
+             sodipodi:role="line"
+             id="tspan3317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+             x="40.637035"
+             y="224.03163">Organization</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#f9f9f9;stroke-width:15.5372;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect300"
+       width="127"
+       height="15.875"
+       x="21.166662"
+       y="152.92914"
+       rx="7.9375"
+       ry="7.9375" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#b3b3b3;stroke-width:0.261006"
+       x="28.580166"
+       y="163.21689"
+       id="text10913"><tspan
+         sodipodi:role="line"
+         id="tspan10911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#b3b3b3;stroke-width:0.261006"
+         x="28.580166"
+         y="163.21689">Email</tspan></text>
+    <rect
+       style="fill:#f9f9f9;stroke-width:15.5372;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect382"
+       width="127"
+       height="15.875"
+       x="21.166662"
+       y="176.74164"
+       rx="7.9375"
+       ry="7.9375" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#b3b3b3;stroke-width:0.261006"
+       x="28.580166"
+       y="187.02939"
+       id="text16281"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#b3b3b3;stroke-width:0.261006"
+         x="28.580166"
+         y="187.02939"
+         id="tspan16305">Password</tspan></text>
+    <rect
+       style="fill:#ff9800;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect135-3"
+       width="26.458334"
+       height="26.458334"
+       x="208.79774"
+       y="48.683323" />
+    <rect
+       style="fill:#ffc947;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1520-6"
+       width="26.458334"
+       height="26.458334"
+       x="235.25606"
+       y="48.683323" />
+    <rect
+       style="fill:#c66900;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1522-7"
+       width="26.458334"
+       height="26.458334"
+       x="261.71442"
+       y="48.683323" />
+    <rect
+       style="fill:#0d47a1;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1524-5"
+       width="26.458334"
+       height="26.458334"
+       x="208.79774"
+       y="75.141663" />
+    <rect
+       style="fill:#5472d3;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1526-3"
+       width="26.458334"
+       height="26.458334"
+       x="235.25606"
+       y="75.141663" />
+    <rect
+       style="fill:#002171;fill-opacity:1;stroke-width:22.8764;stroke-linecap:square;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1528-5"
+       width="26.458334"
+       height="26.458334"
+       x="261.71442"
+       y="75.141663" />
+    <g
+       id="g57208"
+       transform="translate(0,7.9374999)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#0d47a1;fill-opacity:1;stroke-width:19.8717;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect25428"
+         width="63.5"
+         height="17.197916"
+         x="52.91666"
+         y="215.10225"
+         ry="8.598958" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#ffffff;stroke-width:0.261006"
+         x="74.920479"
+         y="225.57018"
+         id="text45639"><tspan
+           sodipodi:role="line"
+           id="tspan45637"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.261006"
+           x="74.920479"
+           y="225.57018">Log in</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#4d4d4d;stroke-width:0.264583"
+       x="84.452728"
+       y="277.28748"
+       id="text28611"><tspan
+         sodipodi:role="line"
+         id="tspan28609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.264583"
+         x="84.452728"
+         y="277.28748">Register</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.264583"
+       x="84.530243"
+       y="288.66248"
+       id="text41117"><tspan
+         sodipodi:role="line"
+         id="tspan41115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.264583"
+         x="84.530243"
+         y="288.66248">Forgot password?</tspan></text>
+  </g>
+</svg>
